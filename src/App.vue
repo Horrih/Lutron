@@ -67,7 +67,7 @@ export default {
     drawer: null,
     tick: 0,
     players: [
-      { position: 32, color: 'red', direction: Direction.UP }
+      { position: 32, color: 'red', direction: Direction.RIGHT }
     ]
   }),
   created () {
